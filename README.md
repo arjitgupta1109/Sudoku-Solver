@@ -13,19 +13,6 @@ The purpose of this project is to create a fun and functional web app where user
 
 ---
 
-## 🚀 Live Demo
-
-> *(If hosted, you can put the GitHub Pages or Netlify link here)*  
-> [Click here to play](#)
-
----
-
-## 📸 Screenshot
-
-> *(Add a screenshot showing the interface)*
-
----
-
 ## 🧰 Tech Stack
 
 | Technology | Role |
